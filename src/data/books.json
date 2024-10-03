@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "rating": 4.7,
+      "description": "The Great Gatsby, novel by F. Scott Fitzgerald, published in 1925 by Charles Scribner's Sons. Set in Jazz Age New York, it tells the story of Jay Gatsby, a self-made millionaire, and his pursuit of Daisy Buchanan, a wealthy young woman whom he loved in his youth",
+      "publication_year": 1925,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOYAiRgJln85ERNHCE2hrhdnoYzmQZd1uew&s",
+      "imageUrl2": "https://m.media-amazon.com/images/I/817+192hZyS._AC_UF1000,1000_QL80_.jpg",
+      "imageUrl3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCN-WlMxNLrEx-TEkXdGUYD1ZlmBf2MvRa7w&s"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "rating": 4.8,
+      "description": "The awakening of a young girl, Jean Louise Finch, to racism and prejudice in her town. When one of the town's black residents is falsely accused of a crime against a white woman, Scout's father, Atticus Finch, agrees to defend the young man.",
+      "publication_year": 1960,
+      "imageUrl": "https://m.media-amazon.com/images/I/817SDvX90JL._AC_UF1000,1000_QL80_.jpg",
+      "imageUrl2": "https://images.blinkist.io/images/books/63fc4bfa0ec20100080b21fb/1_1/470.jpg",
+      "imageUrl3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCP9vYYqAWQP9gtwfz33o3UeCgbERbooegjw&s"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "rating": 4.6,
+      "description": "George Orwell wrote 1984 to teach people a lesson about the negative things that could happen if they allowed their government to exercise total control. The totalitarian regime of Oceania is able to manipulate their citizens into believing anything, which allows them as much power as they could possibly want.",
+      "publication_year": 1949,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7iK5mIkYkHtSaMWGSEPu4_WP-TQ6yT8p0w&s",
+      "imageUrl2": "https://m.media-amazon.com/images/I/71rpa1-kyvL._AC_UF1000,1000_QL80_.jpg",
+      "imageUrl3": "https://upload.wikimedia.org/wikipedia/en/5/51/1984_first_edition_cover.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "rating": 4.9,
+      "description": "Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. They must overcome the titular sins of pride and prejudice in order to fall in love and marry.",
+      "publication_year": 1813,
+      "imageUrl": "https://m.media-amazon.com/images/I/712P0p5cXIL._AC_UF1000,1000_QL80_.jpg",
+      "imageUrl2": "https://www.maplepress.co.in/cdn/shop/files/8_c0d6720a-9b89-46c0-9244-42bb8f856d4e_700x700.jpg?v=1692257342",
+      "imageUrl3": "https://m.media-amazon.com/images/I/81FOTF7SJvL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Wings of Fire",
+      "author": "A.P.J. Abdul Kalam",
+      "genre": "Envisioning",
+      "rating": 4.9,
+      "description": "In Wings of Fire, A.P.J. Abdul Kalam narrates his journey from his childhood in Rameswaram to becoming the president of India, painted against the backdrop of India's journey of becoming a major player in space and defence technology. The book is divided into three parts: 'Orientation', 'Creation', and 'Contemplation'.",
+      "publication_year": 1999,
+      "imageUrl": "https://m.media-amazon.com/images/I/71V46+-55yL._AC_UF1000,1000_QL80_.jpg",
+      "imageUrl2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXF3TnmvT0qXjkmkbnISP-db6AflMQj5OVQ&s",
+      "imageUrl3": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Wings_of_Fire_series_logo.png"
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "rating": 4.3,
+      "description": "The Catcher in the Rye, novel by J.D. Salinger published in 1951. The novel details two days in the life of 16-year-old Holden Caulfield after he has been expelled from prep school. Confused and disillusioned, Holden searches for truth and rails against the “phoniness” of the adult world.",
+      "publication_year": 1951,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGyduSc-hcziGUK11z9hfT3XKyD3Me1TT9MA&s",
+      "imageUrl2": "https://m.media-amazon.com/images/I/91fQEUwFMyL._AC_UF1000,1000_QL80_.jpg",
+      "imageUrl3": "https://c8.alamy.com/comp/EXPRMW/1950s-usa-the-catcher-in-the-rye-by-jd-salinger-book-cover-EXPRMW.jpg"
+    }
+  ]
+  
