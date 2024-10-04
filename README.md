@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/SriLalitha2004/virtual-library-app.git).
 
 ## Available Scripts
 
@@ -28,7 +28,7 @@ A React.js application that allows users to browse books, view detailed informat
 
 ## Getting Started
 
-1. Clone the repository using git clone https://github.com/your-username/virtual-book-library.git
+1. Clone the repository using git clone https://github.com/SriLalitha2004/virtual-library-app.git
 2. Install dependencies using npm install or yarn install
 3. Start the application using npm start or yarn start
 4. Open the application in a web browser at http://localhost:3000
